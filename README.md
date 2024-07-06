@@ -6,6 +6,7 @@ Tested on the games listed below. It might not work correctly with other games u
 * Arena Breakout (KR, CN) (Android, iOS)
 * Odin, Vahalla Rising (Android, iOS)
 * Real Boxing 2 (Android, iOS)
+* Farlight 84 (Android, iOS
 * Mortal Kombat (Android)
 * Dislyte (Android)
 * Octopath Traveler: Champions of the Continent (Android, iOS)
